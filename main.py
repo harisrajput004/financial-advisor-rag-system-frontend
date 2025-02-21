@@ -16,5 +16,5 @@ def read_root():
 
 @app.get("/streamlit")
 def redirect_streamlit():
-    return {"streamlit_url": "https://fa-rag-frontend.devcustomprojects.com"}
+    return {"streamlit_url": "http://localhost:8501"}
 
