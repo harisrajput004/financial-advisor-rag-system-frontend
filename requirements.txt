@@ -1,0 +1,6 @@
+# Web UI and API
+streamlit
+fastapi
+uvicorn
+requests
+pydantic
